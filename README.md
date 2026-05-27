@@ -66,17 +66,7 @@ http://localhost:3000
 - How port mapping works (host ↔ container)
 - Basic GitHub workflow
 
----
 
-## What I plan to improve next
-
-- Use Express.js instead of basic Node HTTP
-- Add environment variables support
-- Try Docker Compose with multiple services
-- Set up CI/CD using GitHub Actions
-- Deploy it to AWS
-
----
 
 ## Author
 
